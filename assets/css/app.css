@@ -1,0 +1,265 @@
+/* style sheet for the forum site   */
+
+/*  intro-background-color : #192b3f; */
+
+
+body {
+    background-color: #ecf0f1;
+
+}
+
+#body-home{
+    
+    background: #34465d;
+}
+
+/* style for toogle button */
+
+.button-bars, .navbar-toggle .button-label {
+    display: inline-block;
+    float: left;
+    
+}
+
+.udu-logo-home {
+    
+    margin: -10px 0 0 0 ;
+}
+
+
+
+.navbar.white .navbar-header .navbar-toggle {
+    margin-top: 17px;
+}
+
+.navbar-toggle {
+    border: 2px solid #000!important;
+    
+}
+
+
+.navbar-toggle .button-label {
+    font-weight: 700;
+    line-height: 14px;
+    padding-right: 10px;
+    color: #000!important;
+}
+
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+
+/* login styles */
+
+
+
+/*footer {
+    
+    margin-top:10px;
+    padding-top:30px;
+    text-align:center;
+    height:80px;
+    color:#86a51b;
+    font-size: 14px;
+    border-top:1px solid #009240;
+    background-color:#fff; 
+}
+*/
+
+
+
+.form-well {
+    
+    margin: 50px 0 0 0;
+}
+
+
+
+
+.btn-login{
+    
+    background: yellow;
+    color: #000!important;
+    border: 1px solid #000;
+    
+}
+
+.btn-login:hover{
+    
+    background: #000!important;
+    color: yellow!important;
+    border: 1px solid yellow;
+}
+
+
+
+
+/* product images */
+
+.popular-products-content{
+    height: 100%;
+    background-color: #f8f8f8;
+    padding-bottom: 100px;
+}
+
+.product {
+    width: 200px!important; /*set the width or max-width*/
+    height: 200px;
+     text-align: center!important; 
+    display: inline-block!important;
+    border: 1px solid #34a1bc!important;
+}
+
+
+
+.pro_title {
+    
+    text-align: center;
+}
+ 
+
+.pro_title > h4{
+    
+   margin: 5px 0 0 0;
+}
+
+
+.trend{
+	
+	  background:#009240;
+	  padding:10px;
+	  color:#fff;
+	  
+	
+	}
+
+
+ .login_panel{
+	 
+	   max-width: 360px!important;
+	 
+	 }
+
+
+.show_upload_form{
+	
+	  display:none;
+	
+	}
+
+
+ .form-post-ads{
+	 
+	 max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;;
+	 
+	 
+  }
+  
+
+  .form-post-ads .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+
+
+.product_page_img{
+    
+    width: 250px!important; /*set the width or max-width*/
+    height: 250px;
+     text-align: center!important; 
+    display: inline-block!important;
+    border: 1px solid #34a1bc!important;
+	
+    
+}
+
+ .related{
+	 
+        width: 100px!important; /*set the width or max-width*/
+    height: 100px;
+     text-align: center!important; 
+    border: 1px solid #34a1bc!important;	  
+	 
+	}
+
+.product_admin{
+	
+	width: 100px!important; /*set the width or max-width*/
+    height: 100px;
+     text-align: center!important; 
+    display: inline-block!important;
+    border: 1px solid #34a1bc!important;
+ }
+
+.round{
+	
+	border-radius:50%!important;
+	
+	}
+
+
+.pro_img{
+	
+	 width: 150px!important; /*set the width or max-width*/
+    height: 150px;
+     text-align: center!important; 
+    display: inline-block!important;
+    border: 1px solid #009240!important;
+	  
+  }
+
+.ww-panel-primary{
+  border-color: #564b4d;
+}
+
+.ww-panel-primary .panel-heading{
+
+  background-color: #afb1af;
+  border-color: #564b4d;
+}
+.ww-panel-primary .panel-heading h3 {
+  color: #211515;
+}
+
+
